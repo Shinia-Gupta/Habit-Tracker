@@ -2,7 +2,7 @@
 
 This is a habit tracking application built with React and Chakra UI. It allows users to track their daily habits, mark them as complete or pending, and view statistics about their habits.
 
-Go Live On [Habit Tracker]()
+Go Live On [Habit Tracker](https://shiniaxhabittracker.netlify.app/)
 
 ## Features
 
